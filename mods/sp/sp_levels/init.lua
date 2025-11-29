@@ -114,7 +114,7 @@ core.register_on_joinplayer(function(player)
     })
 
     player:set_camera({
-        mode = "firstperson",
+        mode = "first"
     })
 
     local inv = player:get_inventory()
