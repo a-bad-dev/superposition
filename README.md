@@ -11,3 +11,4 @@ Code is licensed under the MIT License, a copy of which is included in the file 
 
 ### Textures
 (Uses Minetest Game textures, the majority of which are licensed [CC BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)).
+see respective mods readme/license files for more information
